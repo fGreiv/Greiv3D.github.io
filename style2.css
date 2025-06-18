@@ -1,0 +1,66 @@
+body{
+
+ background: url(Pagina2AbouMe.png);
+ background-position: center;
+ background-size:cover;   
+ background-repeat: no-repeat;
+ height: 97vh; 
+
+   font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: light;
+color: white;
+
+font-size: 18px;
+
+font-weight: 200;
+
+}
+
+nav {
+
+    a{
+
+text-decoration: none;
+
+color: white;
+
+    }
+
+    a:hover {
+
+        font-weight: bold;
+ transition: font-weight 0.2s ease;
+
+color: orangered;
+    }
+
+    }
+
+    .Hm {
+
+position: absolute;
+
+left: 1460px;
+top: 15px;
+
+z-index: 1;
+
+}
+
+
+footer {
+ 
+    
+color: white;
+ position: absolute;
+
+ top: 719px;
+ left: 0px;
+
+ font-size: 12px;
+
+ opacity: 50%;
+}
+
+
