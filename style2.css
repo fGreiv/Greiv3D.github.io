@@ -1,3 +1,5 @@
+@media only screen and (max-width: 600px) {
+
 body{
 
  background: url(Pagina2AbouMe.png);
@@ -19,6 +21,9 @@ font-size: 18px;
 font-weight: 200;
 
 }
+
+
+
 
 nav {
 
