@@ -281,7 +281,13 @@ left: 15%;
 
 figure{
 
+ position:absolute;
 
+    top: 88.5%;
+left: 10%;
+    font-size: 20px;
+
+   font-display: center;
    
 
    
